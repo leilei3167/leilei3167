@@ -1,18 +1,21 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**leilei3167/leilei3167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi,This is Lei 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Introduction
+  
+  Live in Chengdu,China🐼  
+  
+A primary Go developer 🥦🐕
+  
+  Hope to make more friends in open source projects. 👀
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leilei3167)](https://github.com/anuraghazra/github-readme-stats)
+  --- 
 ### 🌱 I’m currently learning Go
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leilei3167&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  --- 
+### 📫 How to reach me:
+  imleilei123@gmail.com
+
+</div>
