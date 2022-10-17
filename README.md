@@ -6,7 +6,7 @@
   
   Live in Chengdu,China🐼  
   
-A primary Go developer 🥦🐕
+A Go developer
   
   Hope to make more friends in open source projects. 👀
   
