@@ -6,13 +6,12 @@
   
   Live in Chengdu,China🐼  
   
-A Go developer
+A Go & Python developer👀
   
-  Hope to make more friends in open source projects. 👀
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leilei3167)](https://github.com/anuraghazra/github-readme-stats)
   --- 
-### 🌱 I’m currently learning Go
+### 🌱 I’m currently learning Kubernetes,Go,Python
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leilei3167&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   --- 
 ### 📫 How to reach me:
