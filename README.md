@@ -1,4 +1,4 @@
-# lei_lei
+# Leon Lei
 
 Backend engineer focused on AI application development.
 
@@ -11,5 +11,3 @@ Backend engineer focused on AI application development.
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leilei3167&show_icons=true&hide_border=true&include_all_commits=true" alt="leilei3167 GitHub stats" />
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leilei3167&layout=compact&hide_border=true" alt="leilei3167 top languages" />
 </p>
-
-![Contribution graph](https://ghchart.rshah.org/0969da/leilei3167)
