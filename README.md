@@ -1,13 +1,20 @@
-# Leon Lei
+# Hi, I'm Leon Lei
 
-Backend engineer focused on AI application development.
+Backend engineer focused on AI application development. I'm interested in everything along the path toward AGI — from models and agents to tools, voice, and local inference — and enjoy turning those ideas into useful products.
 
-**Stack**
-- Languages: Go, Python
-- AI: agents, LLM APIs, tool calling, voice, local inference
-- Around it: HTTP services, Postgres, Redis, Docker
+## Things I'm Into
+
+- 🤖 AI agents that can reason, use tools, and get things done.
+- 📚 Knowledge systems that know when to answer — and when not to.
+- 🛠️ The engineering behind reliable AI applications.
+
+## OSS I Contributed To
+
+- 🧱 [Dify](https://github.com/langgenius/dify): a visual way to build AI workflows, knowledge bases, and agent applications.
+- 🧠 [LocalAI](https://github.com/mudler/LocalAI): a practical route to running AI models locally through an OpenAI-compatible interface.
+- 🌐 [browser-use](https://github.com/browser-use/browser-use): a bridge between AI agents and the websites they need to operate.
+- 🦞 [OpenClaw](https://github.com/openclaw/openclaw): a personal AI assistant that brings models, tools, and conversations together across your own devices.
 
 <p>
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leilei3167&show_icons=true&hide_border=true&include_all_commits=true" alt="leilei3167 GitHub stats" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leilei3167&layout=compact&hide_border=true" alt="leilei3167 top languages" />
 </p>
