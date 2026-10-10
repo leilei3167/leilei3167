@@ -25,9 +25,6 @@ Backend engineer focused on AI application development. I'm interested in everyt
 - ⚡ [FastGPT](https://github.com/labring/FastGPT): a knowledge platform for turning documents into question-answering applications.
 - 💬 [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm): a local-first workspace for documents, chat, and personal assistants.
 - 👥 [Multica](https://github.com/multica-ai/multica): an open-source place for people and agents to work as one team.
-- 🍕 [pie](https://github.com/elliotchance/pie): a type-safe Go utility library for slices and maps.
-- 📖 [MinDoc](https://github.com/mindoc-org/mindoc): an online documentation system for APIs, built with Go and Beego.
-- 🔐 [IAM](https://github.com/marmotedu/iam): a Go project for authentication and authorization in production-style services.
 
 <p>
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leilei3167&show_icons=true&hide_border=true&include_all_commits=true" alt="leilei3167 GitHub stats" />
